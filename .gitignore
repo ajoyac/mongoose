@@ -1,0 +1,7 @@
+env/
+.vscode/
+build/
+dist/
+moongose.egg-info/
+__pycache__/
+.whl_
